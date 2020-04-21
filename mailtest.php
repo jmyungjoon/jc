@@ -1,5 +1,5 @@
 <?php
-$to = 'jmyungjoon@gmail.com';
+$to = 'jmyungjoon@naver.com';
 $subject = 'This is our test mail.';
 $message = '<h1>Hi, there.</h1><p>Thank you for testing</p>';
 $header = "From : The sender name <jmyungjoon@naver.com>\r\n";
